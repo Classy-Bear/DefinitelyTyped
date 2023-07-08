@@ -35,6 +35,7 @@ import { HttpResponse } from './devtools/networkinterceptor'
 export * from './lib/by';
 export { Browser, Capability, Capabilities, ITimeouts } from './lib/capabilities';
 export { Actions, Button, Key, Origin } from './lib/input';
+export { Select } from './lib/select';
 export { promise } from './lib/promise';
 export { until };
 export { logging };
